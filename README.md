@@ -10,7 +10,9 @@
 
 - 📫 How to reach me:[LinkedIn-Kash Moulik](https://www.linkedin.com/in/kash-moulik-0348881a0/)
 - 😄 Pronouns:He/His
-- ⚡ Fun fact: A nobody trying  hard too be somebody some day!
+- ⚡ Fun fact: County Meme Dealer!🤣.
+
+
 
 ### Stats:
   ![Kash's github stats](https://github-readme-stats.vercel.app/api?username=BlazeAxel99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeAxel99&layout=compact)](https://github.com/BlazeAxel99/github-readme-stats)
