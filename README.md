@@ -1,5 +1,6 @@
 ### Hola, I'm  Kash Moulik! 👋
 ![](https://komarev.com/ghpvc/?username=BkazeAxel99&color=blue)
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
 
 
 ### About Me:
