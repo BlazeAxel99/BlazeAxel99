@@ -1,5 +1,5 @@
 ### Hola, I'm  Kash Moulik! 👋
-![](https://komarev.com/ghpvc/?username=BkazeAxel99&color=green)
+![](https://komarev.com/ghpvc/?username=BkazeAxel99&color=pink)
 
 
 
