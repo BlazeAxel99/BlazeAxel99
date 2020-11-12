@@ -18,7 +18,7 @@
 
 
 ### Stats:
-![Kash's github stats](https://github-readme-stats.vercel.app/api?username=BlazeAxel99&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeAxel99&layout=compact)](https://github.com/BlazeAxel99/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlazeAxel99)
 
 
