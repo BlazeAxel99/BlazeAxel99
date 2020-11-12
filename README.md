@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=BkazeAxel99&color=blue)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ### About Me:
 - 🔭 I’m currently working on a project in the domain of android apk, ML etc.
 
