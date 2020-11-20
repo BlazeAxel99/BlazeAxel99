@@ -4,7 +4,7 @@
 
 
 ### About Me:
-- 🔭 I’m currently working on a project in the domain of android apk, ML etc.
+
 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on projects.
