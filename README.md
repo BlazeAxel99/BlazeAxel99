@@ -13,7 +13,7 @@
 
 - 📫 How to reach me:[LinkedIn-Kash Moulik](https://www.linkedin.com/in/kash-moulik-0348881a0/)
 - 😄 Pronouns:He/His
-- ⚡ Fun fact: County Meme Dealer!🤣.
+
 
 
 
