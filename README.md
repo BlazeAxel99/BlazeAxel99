@@ -6,7 +6,7 @@
 ### About Me:
 
 
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m currently working on various projects and myself.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help in the domain of competitve programming
 - 💬 Ask me about my hobbies!😜
