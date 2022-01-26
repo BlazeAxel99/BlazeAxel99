@@ -2,7 +2,8 @@
 I'm a final year undergrad at HITK , Kolkata pursuing B.Tech in Applied Electronics and Instrumentation. I'm a Competitive Coder, Web Developer,  and Machine Learning Practioner.
 
 
-![gif3](https://user-images.githubusercontent.com/52042283/151170500-20652ebf-b66b-4ffd-a1c6-e4a185bf2bea.gif) 
+![gif3](https://user-images.githubusercontent.com/52042283/151170698-70dbfc96-9c82-4810-86fe-97ae78bd5aa7.gif)
+
 
 
 ![](https://komarev.com/ghpvc/?username=BkazeAxel99&color=blue)
