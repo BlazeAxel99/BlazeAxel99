@@ -1,4 +1,5 @@
-### Hola, I'm  Kash Moulik! 👋
+👋 ✨ Hi, I'm Kash Moulik.
+I'm a final year undergrad at HITK , Kolkata pursuing B.Tech in Applied Electronics and Instrumentation. I'm a Competitive Coder, Web Developer,  and Machine Learning Practioner. https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
 ![](https://komarev.com/ghpvc/?username=BkazeAxel99&color=blue)
 
 
