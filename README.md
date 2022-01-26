@@ -2,7 +2,7 @@
 I'm a final year undergrad at HITK , Kolkata pursuing B.Tech in Applied Electronics and Instrumentation. I'm a Competitive Coder, Web Developer,  and Machine Learning Practioner.
 
 
-![gif3](https://user-images.githubusercontent.com/52042283/151170698-70dbfc96-9c82-4810-86fe-97ae78bd5aa7.gif)
+![gif3](https://user-images.githubusercontent.com/52042283/151170698-70dbfc96-9c82-4810-86fe-97ae78bd5aa7.gif width="20%" height="20%")
 
 
 
