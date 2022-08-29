@@ -1,5 +1,5 @@
 👋 ✨ Hi, I'm Kash Moulik.
-I'm a final year undergrad at HITK , Kolkata pursuing B.Tech in Applied Electronics and Instrumentation. I'm a Competitive Coder, Web Developer,  and Machine Learning Practioner.
+ I'm a Competitive Coder, Web Developer,  and Machine Learning Practioner.
 
 
 
