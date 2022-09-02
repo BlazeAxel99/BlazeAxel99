@@ -1,5 +1,6 @@
 👋 ✨ Hi, I'm Kash Moulik.
- I'm a Competitive Coder, Web Developer,  and Machine Learning Practioner.
+
+ 
 
 
 
@@ -13,7 +14,7 @@
 ### About Me:
 
 
-- 🌱 I’m currently working on various projects and myself.
+- 🌱 I'm currenlty diving deep into DSA using java.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help in the domain of competitve programming
 - 💬 Ask me about my hobbies!😜
