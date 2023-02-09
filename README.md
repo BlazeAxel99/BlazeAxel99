@@ -14,9 +14,7 @@
 ### About Me:
 
 
-- 🌱 I'm currenlty diving deep into DSA using java.
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help in the domain of competitve programming
+- 🌱 I'm currenlty Developing and learning using java.
 - 💬 Ask me about my hobbies!😜
 
 - 📫 How to reach me:[LinkedIn-Kash Moulik](https://www.linkedin.com/in/kash-moulik-0348881a0/)
