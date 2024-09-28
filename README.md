@@ -14,7 +14,7 @@
 ### About Me:
 
 
-- 🌱 I'm currenlty Developing and learning using Java.
+- 🌱 I'm currenlty working as a Python Developer.
 - 💬 Ask me about my hobbies!😜
 
 - 📫 How to reach me:[LinkedIn-Kash Moulik](https://www.linkedin.com/in/kash-moulik-0348881a0/)
