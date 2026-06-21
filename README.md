@@ -1,9 +1,3 @@
-<!-- Header Banner (Upload profile_banner.png to your repository to display this) -->
-<div align="center">
-  <img src="profile_banner.png" alt="Kash Moulik Banner" width="70%" style="border-radius: 10px;" />
-</div>
-
-<br />
 
 <div align="center">
   
