@@ -1,6 +1,6 @@
 <!-- Header Banner (Upload profile_banner.png to your repository to display this) -->
 <div align="center">
-  <img src="profile_banner.png" alt="Kash Moulik Banner" width="100%" style="border-radius: 10px;" />
+  <img src="profile_banner.png" alt="Kash Moulik Banner" width="70%" style="border-radius: 10px;" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
   
   # 👋 Hi, I'm **Kash Moulik**
   
-  ### *Assistant Manager – AI Engineering @ EY | GenAI & Agentic Systems Architect*
+  ### *Assistant Manager – AI Engineering | GenAI & Agentic Systems Architect*
   
   <a href="https://blazeaxel99.github.io/kashmoulik.io-v2/">**Portfolio Site**</a> • <a href="https://www.linkedin.com/in/kash-moulik-0348881a0/">**LinkedIn**</a> • <a href="mailto:kmoulik99@gmail.com">**Email**</a>
 
@@ -33,7 +33,7 @@
 
 I am an **AI Engineer & Solutions Architect** specializing in orchestrating **agentic workflows**, designing custom **Model Context Protocol (MCP)** servers, and building next-gen conversational AI integrations.
 
-Currently, I lead AI-powered IVR voice automation at **EY**, connecting Microsoft Copilot Studio and GPT Realtime API to run real-time conversational agents at scale. Previously, at **Accenture**, I drove legacy code analysis and modernization pipelines using generative AI, saving thousands of manual engineering hours.
+Currently, I lead AI-powered IVR voice automation, connecting Microsoft Copilot Studio and GPT Realtime API to run real-time conversational agents at scale. Previously, I drove legacy code analysis and modernization pipelines using generative AI, saving thousands of manual engineering hours.
 
 - 🎙️ **Current Focus:** Real-time voice LLM systems and IVR agent orchestration.
 - ⚡ **Passion:** Designing tool-using agents (MCP servers) that connect LLMs to real-world software and legacy systems.
@@ -65,7 +65,7 @@ Currently, I lead AI-powered IVR voice automation at **EY**, connecting Microsof
 
   [![GitHub Copilot Certified](https://img.shields.io/badge/GitHub-Copilot%20Certified-24292e?style=for-the-badge&logo=github)](https://github.com)
   [![Hugging Face AI Agents](https://img.shields.io/badge/Hugging%20Face-AI%20Agents%20%26%20MCP-ffd21e?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-  [![EY Applied AI Bronze](https://img.shields.io/badge/EY-Applied%20AI%20Bronze-FFE600?style=for-the-badge&logo=ey&logoColor=black)](https://ey.com)
+  [![MongoDB Architect](https://img.shields.io/badge/MongoDB-Architect-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
   [![NVIDIA Deep Learning](https://img.shields.io/badge/NVIDIA-Deep%20Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com)
 
 </div>
