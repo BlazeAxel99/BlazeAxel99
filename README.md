@@ -85,15 +85,15 @@ Currently, I lead AI-powered IVR voice automation, connecting Microsoft Copilot 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=BlazeAxel99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kash's GitHub Stats" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api?username=BlazeAxel99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kash's GitHub Stats" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazeAxel99&theme=tokyonight&hide_border=true&background=0d1117" alt="Kash's GitHub Streak" width="400" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BlazeAxel99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kash's Top Languages" width="400" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeAxel99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kash's Top Languages" width="400" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazeAxel99&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Kash's Activity Graph" width="820" />
       </td>
     </tr>
   </table>
